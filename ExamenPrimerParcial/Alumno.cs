@@ -9,6 +9,6 @@ namespace ExamenPrimerParcial
         public string Email { get; set; }
 
 
-        publci 
+        
     }
 }
